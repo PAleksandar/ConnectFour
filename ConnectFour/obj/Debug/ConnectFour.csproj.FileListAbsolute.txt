@@ -1,0 +1,176 @@
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\visual studio 2013 projects\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+D:\Projekat\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\Projekat\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\Projekat\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\Projekat\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\Connect4\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\connectfour-2\ConnectFour (2)\ConnectFour (2)\ConnectFour\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\II faza\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\ispravka\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\T2\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Finished\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+D:\Finished\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+D:\Finished\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+D:\Finished\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe.config
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.exe
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\bin\Debug\ConnectFour.pdb
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormDialog.resources
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormIgra.resources
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.FormPocetna.resources
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.Properties.Resources.resources
+C:\Users\Aca\Desktop\Connect4\ConnectFour\ConnectFour\obj\Debug\ConnectFour.csproj.GenerateResource.Cache
